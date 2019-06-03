@@ -27,7 +27,7 @@ def makeComment(data):
     comment += "\n"
     
     comment += "Sua nota do " + lab + " foi *" + str(grade) + "*! Na " \
-        + "próxima semana, os professores divulgarão a planilha com as notas" \
+        + "em breve, os professores divulgarão a planilha com as notas" \
         + " finais."
 
     return comment
